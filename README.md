@@ -7,7 +7,7 @@
 2. Spirng Boot中自定义属性配置； 
 3. Spring Boot中Controller的使用； 
 4. Spirng Boot中使用spirng-data-jpa和事务操作。
-</br>
+
 所需前置知识：
 * 如何利用maven构建项目；
 * Spring注解相关知识；
