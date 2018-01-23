@@ -4,13 +4,13 @@
 </br>
 <br>
 项目内容：
-1. 创建一个Spring Boot应用；
-2. Spirng Boot中自定义属性配置； 
-3. Spring Boot中Controller的使用； 
-4. Spirng Boot中使用spirng-data-jpa和事务操作。
+1. 创建一个 Spring Boot 应用；
+2. Spirng Boot 中自定义属性配置； 
+3. Spring Boot 中 Controller 的使用； 
+4. Spirng Boot 中使用 spirng-data-jpa 和事务操作。
 
 所需前置知识：
-* 如何利用maven构建项目；
-* Spring注解相关知识；
-* MVC的思想的基本概念； 
-* RestfulApi相关知识。
+* 如何利用 maven 构建项目；
+* Spring 注解相关知识；
+* MVC 的思想的基本概念； 
+* RestfulApi 相关知识。
